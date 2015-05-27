@@ -1,7 +1,7 @@
 # Iptables script
 An iptables script for a basic hosting security
 
-#Who to use
+#How to use
 
 - Download the script
 
